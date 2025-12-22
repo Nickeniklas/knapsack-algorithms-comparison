@@ -13,3 +13,9 @@ Simple Knapsack problem
 5. Constructive heuristic
 
 ### Results and Summary at the end
+Analysis and more.
+
+
+___
+*Originally done as 2025 Arcada course work.*
+
